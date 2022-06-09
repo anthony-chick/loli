@@ -1898,7 +1898,7 @@
   }
 
   .container-1eFtFS::after {
-    content: "S໒꒰ྀི › ·̮ ‹ ꒱ྀིა";
+    content: var(--background01);
     position: fixed;
     top: 220px;
     bottom: 85px;
