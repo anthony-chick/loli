@@ -1,5 +1,4 @@
 @charset "UTF-8";
-@import url("https://nyri4.github.io/donators/donators.css");
 @import url("https://fonts.googleapis.com/css2?family=Nunito");
 @import url("https://discord-custom-covers.github.io/usrbg/dist/usrbg.css");
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
@@ -1899,7 +1898,7 @@
   }
 
   .container-1eFtFS::after {
-    content: "໒꒰ྀི › ·̮ ‹ ꒱ྀིა";
+    content: "S໒꒰ྀི › ·̮ ‹ ꒱ྀིა";
     position: fixed;
     top: 220px;
     bottom: 85px;
